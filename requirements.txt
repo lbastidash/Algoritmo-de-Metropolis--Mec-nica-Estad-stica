@@ -1,0 +1,6 @@
+ipython
+numpy
+matplotlib
+scipy
+jupyterlab_launcher>=0.5.0
+tqdm
